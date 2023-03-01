@@ -1,0 +1,2 @@
+# Benchmark name,Verification,device-name,kernel-time-mean,kernel-time-median,kernel-time-min,kernel-time-samples,kernel-time-stddev,kernel-time-throughput,local-size,problem-size,run-time-mean,run-time-median,run-time-min,run-time-samples,run-time-stddev,run-time-throughput,sycl-implementation,throughput-metric
+MatmulChain,PASS,hipSYCL OpenMP host device,N/A,N/A,N/A,N/A,N/A,N/A,256,3072,20.032681,20.265419,19.339489,"19.339489 19.560903 20.265419 20.385151 20.612441",0.551728,N/A,hipSYCL,N/A
