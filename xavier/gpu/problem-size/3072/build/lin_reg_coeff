@@ -1,0 +1,4 @@
+# Benchmark name,Verification,device-name,kernel-time-mean,kernel-time-median,kernel-time-min,kernel-time-samples,kernel-time-stddev,kernel-time-throughput,local-size,problem-size,run-time-mean,run-time-median,run-time-min,run-time-samples,run-time-stddev,run-time-throughput,sycl-implementation,throughput-metric
+LinearRegressionCoeff_fp32,PASS,Xavier,N/A,N/A,N/A,N/A,N/A,N/A,256,3072,0.002282,0.002284,0.001992,"0.001992 0.002184 0.002284 0.002324 0.002629",0.000232,N/A,hipSYCL,N/A
+# Benchmark name,Verification,device-name,kernel-time-mean,kernel-time-median,kernel-time-min,kernel-time-samples,kernel-time-stddev,kernel-time-throughput,local-size,problem-size,run-time-mean,run-time-median,run-time-min,run-time-samples,run-time-stddev,run-time-throughput,sycl-implementation,throughput-metric
+LinearRegressionCoeff_fp64,PASS,Xavier,N/A,N/A,N/A,N/A,N/A,N/A,256,3072,0.002163,0.002187,0.001973,"0.001973 0.002152 0.002187 0.002209 0.002295",0.000119,N/A,hipSYCL,N/A

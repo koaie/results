@@ -1,0 +1,2 @@
+# Benchmark name,Verification,device-name,kernel-time-mean,kernel-time-median,kernel-time-min,kernel-time-samples,kernel-time-stddev,kernel-time-throughput,local-size,problem-size,run-time-mean,run-time-median,run-time-min,run-time-samples,run-time-stddev,run-time-throughput,sycl-implementation,throughput-metric
+Polybench_Mvt,PASS,Xavier,N/A,N/A,N/A,N/A,N/A,N/A,256,3072,0.016611,0.016590,0.016499,"0.016499 0.016538 0.016590 0.016669 0.016759",0.000104,N/A,hipSYCL,N/A
