@@ -1,2 +1,4 @@
 # Benchmark name,Verification,device-name,kernel-time-mean,kernel-time-median,kernel-time-min,kernel-time-samples,kernel-time-stddev,kernel-time-throughput,local-size,problem-size,run-time-mean,run-time-median,run-time-min,run-time-samples,run-time-stddev,run-time-throughput,sycl-implementation,throughput-metric
-Polybench_Mvt,PASS,hipSYCL OpenMP host device,N/A,N/A,N/A,N/A,N/A,N/A,256,3072,0.010015,0.009827,0.009751,"0.009751 0.009815 0.009827 0.009850 0.010833",0.000459,N/A,hipSYCL,N/A
+Polybench_Mvt,PASS,hipSYCL OpenMP host device,N/A,N/A,N/A,N/A,N/A,N/A,256,3072,0.010505,0.009551,0.009443,"0.009443 0.009456 0.009551 0.009577 0.014501",0.002234,N/A,hipSYCL,N/A
+# Benchmark name,Verification,device-name,kernel-time-mean,kernel-time-median,kernel-time-min,kernel-time-samples,kernel-time-stddev,kernel-time-throughput,local-size,problem-size,run-time-mean,run-time-median,run-time-min,run-time-samples,run-time-stddev,run-time-throughput,sycl-implementation,throughput-metric
+Polybench_Mvt,PASS,hipSYCL OpenMP host device,N/A,N/A,N/A,N/A,N/A,N/A,256,3072,0.009631,0.009462,0.009408,"0.009408 0.009437 0.009462 0.009473 0.010377",0.000418,N/A,hipSYCL,N/A
