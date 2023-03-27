@@ -1,0 +1,4 @@
+cpu_cores,# Benchmark name,Verification,device-name,kernel-time-mean,kernel-time-median,kernel-time-min,kernel-time-samples,kernel-time-stddev,kernel-time-throughput,local-size,problem-size,run-time-mean,run-time-median,run-time-min,run-time-samples,run-time-stddev,run-time-throughput,sycl-implementation,throughput-metric
+36,LinearRegressionCoeff_fp32,FAIL,hipSYCL OpenMP host device,N/A,N/A,N/A,N/A,N/A,N/A,256,30720000,0.121085,0.121085,0.121085,"0.121085",0.000000,N/A,hipSYCL,N/A
+36,# Benchmark name,Verification,device-name,kernel-time-mean,kernel-time-median,kernel-time-min,kernel-time-samples,kernel-time-stddev,kernel-time-throughput,local-size,problem-size,run-time-mean,run-time-median,run-time-min,run-time-samples,run-time-stddev,run-time-throughput,sycl-implementation,throughput-metric
+36,LinearRegressionCoeff_fp64,FAIL,hipSYCL OpenMP host device,N/A,N/A,N/A,N/A,N/A,N/A,256,30720000,0.108479,0.108479,0.108479,"0.108479",0.000000,N/A,hipSYCL,N/A

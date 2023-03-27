@@ -1,0 +1,2 @@
+cpu_cores,# Benchmark name,Verification,device-name,kernel-time-mean,kernel-time-median,kernel-time-min,kernel-time-samples,kernel-time-stddev,kernel-time-throughput,local-size,problem-size,run-time-mean,run-time-median,run-time-min,run-time-samples,run-time-stddev,run-time-throughput,sycl-implementation,throughput-metric
+1,Polybench_Atax,PASS,NVIDIA GeForce GTX 1070,N/A,N/A,N/A,N/A,N/A,N/A,256,20000,0.155876,0.155816,0.154743,"0.154743 0.155580 0.155816 0.156086 0.157154",0.000874,N/A,hipSYCL,N/A
