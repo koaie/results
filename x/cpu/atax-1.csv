@@ -1,0 +1,2 @@
+cpu_cores,# Benchmark name,Verification,device-name,kernel-time-mean,kernel-time-median,kernel-time-min,kernel-time-samples,kernel-time-stddev,kernel-time-throughput,local-size,problem-size,run-time-mean,run-time-median,run-time-min,run-time-samples,run-time-stddev,run-time-throughput,sycl-implementation,throughput-metric
+1,Polybench_Atax,PASS,hipSYCL OpenMP host device,N/A,N/A,N/A,N/A,N/A,N/A,256,20000,5.138188,5.058275,5.019531,"5.019531 5.028654 5.058275 5.090360 5.494118",0.200896,N/A,hipSYCL,N/A
