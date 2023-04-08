@@ -1,0 +1,2 @@
+cpu_cores,# Benchmark name,Verification,device-name,kernel-time-mean,kernel-time-median,kernel-time-min,kernel-time-samples,kernel-time-stddev,kernel-time-throughput,local-size,problem-size,run-time-mean,run-time-median,run-time-min,run-time-samples,run-time-stddev,run-time-throughput,sycl-implementation,throughput-metric
+1,VectorAddition_int32,PASS,Xavier,N/A,N/A,N/A,N/A,N/A,N/A,256,200000000,0.049202,0.049221,0.049117,"0.049117 0.049174 0.049221 0.049231 0.049268",0.000058,N/A,hipSYCL,N/A
