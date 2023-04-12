@@ -1,2 +1,2 @@
 cpu_cores,# Benchmark name,Verification,device-name,kernel-time-mean,kernel-time-median,kernel-time-min,kernel-time-samples,kernel-time-stddev,kernel-time-throughput,local-size,problem-size,run-time-mean,run-time-median,run-time-min,run-time-samples,run-time-stddev,run-time-throughput,sycl-implementation,throughput-metric
-6,MolecularDynamics,PASS,AMD Opteron(tm) Processor 6376,N/A,N/A,N/A,N/A,N/A,N/A,256,10000000,0.573512,0.574893,0.563797,"0.563797 0.568273 0.574893 0.577534 0.583063",0.007602,N/A,ComputeCpp,N/A
+6,MolecularDynamics,N/A,AMD Opteron(tm) Processor 6376,N/A,N/A,N/A,N/A,N/A,N/A,256,10000000,0.470380,0.471164,0.466446,"0.466446 0.467073 0.471164 0.472965 0.474252",0.003489,N/A,ComputeCpp,N/A
